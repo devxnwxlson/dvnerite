@@ -3,6 +3,7 @@
 I'm a Software Engineer, Designer and Writer passionate about creating new technology and discourse around Human Interaction and Communication through Art, Culture and Education. 
 
 I am ...
+- 👀 Currently looking for a Fulltime position/apprenticeship as a Developer/Designer (Frontend/UX Focus but open to more)
 - 💻  Currently working with <a href="www.mycloudclub.org">Cloud Club</a> as the Technical Lead for their Mobile Application
 - 🌱  Currently learning React Native, & Jest
 - 🌳 Looking forward to creating technology, conversation and conducting researching to better our world 
