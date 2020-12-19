@@ -4,7 +4,7 @@ I'm a Software Engineer, Designer and Writer passionate about creating new techn
 
 I am ...
 - 💻  Currently working with <a href="www.mycloudclub.org">Cloud Club</a> as the Technical Lead for their Mobile Application
-- 🌱  Currently learning React Native,
+- 🌱  Currently learning React Native, & Jest
 - 🌳 Looking forward to creating technology, conversation and conducting researching to better our world 
 - 📫  Ways to reach me: <a href="www.twitter.com/devxnwxlson">Twitter</a> | <a href="www.instagram.com/devxnwxlson">Instagram</a>
 
